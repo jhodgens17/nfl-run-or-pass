@@ -19,6 +19,6 @@ The most important features leveraged in this model were:
 4. Yards needed for first down
 
 Files included in this repo:
-NFL Notebook.ipynb - Jupyter notebook containing code used for this analysis
-NFL Predictions.pdf - Presentation detailing some of the findings from this project
-README.md - You are reading this now
+- NFL Notebook.ipynb - Jupyter notebook containing code used for this analysis
+- NFL Predictions.pdf - Presentation detailing some of the findings from this project
+- README.md - You are reading this now
