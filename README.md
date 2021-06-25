@@ -1,6 +1,6 @@
 # Predicting pass or run plays in the NFL
 
-The objective of this project was to address the question - can we predict whether a team is going to run or pass the based on information available prior to the play?
+The objective of this project was to address the question - can we predict whether an NFL team is going to run or pass based on information available prior to the play?
 
 The answer to this question is important to football teams as they determine how to prepare for a coming play when on defense. If a team can accuractely predict if their opponent will pass or run the ball, they will have a competitive advantage while on defense.
 
